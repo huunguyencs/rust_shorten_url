@@ -1,11 +1,11 @@
-Shorten URL Application using Rust (Rocket + Redis)
+Simple shorten URL Application using Rust (Rocket + Redis)
 
 ## 1. Set up
 
 - Clone this project
 
 ```bash
-git clone git_url
+git clone git@github.com:huunguyencs/rust_shorten_url.git
 ```
 
 - Install & run redis. You can run redis with docker:
